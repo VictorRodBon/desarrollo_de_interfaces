@@ -1,0 +1,10 @@
+C:\Users\Victor\source\repos\ejercicioFechas\bin\Debug\ejercicioFechas.exe.config
+C:\Users\Victor\source\repos\ejercicioFechas\bin\Debug\ejercicioFechas.exe
+C:\Users\Victor\source\repos\ejercicioFechas\bin\Debug\ejercicioFechas.pdb
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.Form1.resources
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.Properties.Resources.resources
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.exe
+C:\Users\Victor\source\repos\ejercicioFechas\obj\Debug\ejercicioFechas.pdb
