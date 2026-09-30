@@ -1,0 +1,10 @@
+C:\Users\Victor\source\repos\MiniCalculadora\bin\Debug\MiniCalculadora.exe.config
+C:\Users\Victor\source\repos\MiniCalculadora\bin\Debug\MiniCalculadora.exe
+C:\Users\Victor\source\repos\MiniCalculadora\bin\Debug\MiniCalculadora.pdb
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.csproj.AssemblyReference.cache
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.Form1.resources
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.Properties.Resources.resources
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.exe
+C:\Users\Victor\source\repos\MiniCalculadora\obj\Debug\MiniCalculadora.pdb
