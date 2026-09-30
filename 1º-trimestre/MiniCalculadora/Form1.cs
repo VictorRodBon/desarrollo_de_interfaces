@@ -19,25 +19,46 @@ namespace MiniCalculadora
 
         private void Calcular_Click(object sender, EventArgs e)
         {
-            int.TryParse(Suma1.Text, out int sum1);
-            int.TryParse(Suma2.Text, out int sum2);
+            try
+            {
+                int.TryParse(Suma1.Text, out int sum1);
+                int.TryParse(Suma2.Text, out int sum2);
+                ResultadoSuma.Text = (sum1 + sum2).ToString();
+            }
+            catch (Exception ex)
+            {
+                ResultadoSuma.Text = "0";
+                Console.WriteLine(ex.Message);
+            }
 
-            ResultadoSuma.Text = (sum1 + sum2).ToString();
+            try {
+                int.TryParse(Resta1.Text, out int res1);
+                int.TryParse(Resta2.Text, out int res2);
+                ResultadoResta.Text = (res1 - res2).ToString();
+            } catch (Exception ex) { 
+                ResultadoResta.Text = "0";
+                Console.WriteLine(ex.Message);
+            }
 
-            int.TryParse(Resta1.Text, out int res1);
-            int.TryParse(Resta2.Text, out int res2);
+            try { 
+                int.TryParse(Multiplicacion1.Text, out int mul1);
+                int.TryParse(Multiplicacion2.Text, out int mul2);
+                ResultadoMultiplicacion.Text = (mul1 * mul2).ToString();
+            } catch (Exception ex) {
+                ResultadoMultiplicacion.Text = "0";
+                Console.WriteLine(ex.Message);
+            }
 
-            ResultadoResta.Text = (res1 - res2).ToString();
 
-            int.TryParse(Multiplicacion1.Text, out int mul1);
-            int.TryParse(Multiplicacion2.Text, out int mul2);
+            try {
+                int.TryParse(Division1.Text, out int div1);
+                int.TryParse(Division2.Text, out int div2);
+                ResultadoDivision.Text = (div1 / div2).ToString();
+            } catch (Exception ex) { 
+                ResultadoDivision.Text = "0";
+                Console.WriteLine(ex.Message);
+            }
 
-            ResultadoMultiplicacion.Text = (mul1 * mul2).ToString();
-
-            int.TryParse(Division1.Text, out int div1);
-            int.TryParse(Division2.Text, out int div2);
-            
-            ResultadoDivision.Text = (div1 / div2).ToString();
         }
     }
 }
