@@ -8,3 +8,13 @@ C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Deb
 C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
 C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.exe
 C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.pdb
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\bin\Debug\ProyectoBanco.exe.config
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\bin\Debug\ProyectoBanco.exe
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\bin\Debug\ProyectoBanco.pdb
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.AssemblyReference.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.Form1.resources
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.Properties.Resources.resources
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.GenerateResource.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.exe
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ProyectoBanco\obj\Debug\ProyectoBanco.pdb

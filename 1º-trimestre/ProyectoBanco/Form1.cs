@@ -12,6 +12,9 @@ namespace ProyectoBanco
 {
     public partial class Form1 : Form
     {
+
+        String letrasDni = "TRWAGMYFPDXBNJZSQVHLCKE";
+
         public Form1()
         {
             InitializeComponent();
@@ -30,20 +33,36 @@ namespace ProyectoBanco
 
             if (filaActual < matriz.GetLength(0))
             {
-                matriz[filaActual, 0] = valorNombre;
-                matriz[filaActual, 1] = valorDni;
-                matriz[filaActual, 2] = valorCantidad;
+                if (validarDni(valorDni)) { 
+                    matriz[filaActual, 0] = valorNombre;
+                    matriz[filaActual, 1] = valorDni;
+                    matriz[filaActual, 2] = valorCantidad;
 
-                filaActual++;
+                    filaActual++;
 
-                nombre.Clear();
-                dni.Clear();
-                cantidad.Clear();
+                    nombre.Clear();
+                    dni.Clear();
+                    cantidad.Clear();
+                }
+                else
+                {
+                    MessageBox.Show("Se ha introducido un DNI incorrecto");
+                }
+
             }
             else {
                 MessageBox.Show("Se ha superado el número máximo de entradas.");
             }
 
+        }
+
+        private Boolean validarDni(String dni) {
+            int num = int.Parse(dni.Substring(0, 8));
+            Char letraOriginal = char.Parse(dni.Substring(8).ToUpper());
+            int resto = num % 23;
+            Char letraReal = letrasDni[resto];
+
+            return letraOriginal.Equals(letraReal);
         }
 
         private void botonCalcularMasDinero_Click(object sender, EventArgs e)
@@ -86,7 +105,7 @@ namespace ProyectoBanco
             }
 
             // 4. Mostramos el resultado final
-            masDineroLabel.Text= nombreMaximo + ":" + maxDinero.ToString();
+            masDineroLabel.Text= dniMaximo + ":" + maxDinero.ToString();
         }
 
 
