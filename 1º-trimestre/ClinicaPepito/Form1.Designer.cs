@@ -50,6 +50,7 @@
             this.botonConsultarCita.TabIndex = 1;
             this.botonConsultarCita.Text = "Consultar citas";
             this.botonConsultarCita.UseVisualStyleBackColor = true;
+            this.botonConsultarCita.Click += new System.EventHandler(this.botonConsultarCita_Click);
             // 
             // Form1
             // 

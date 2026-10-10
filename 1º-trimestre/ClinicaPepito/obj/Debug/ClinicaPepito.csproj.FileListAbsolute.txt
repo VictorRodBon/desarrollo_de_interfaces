@@ -8,3 +8,15 @@ C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\C
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.csproj.CoreCompileInputs.cache
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.exe
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.pdb
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.csproj.AssemblyReference.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.NuevaCita.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.ConsultarCitas.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.Properties.Resources.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.csproj.GenerateResource.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.csproj.CoreCompileInputs.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.exe
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.pdb
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\obj\Debug\ClinicaPepito.Form1.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\bin\Debug\ClinicaPepito.exe.config
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\bin\Debug\ClinicaPepito.exe
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\ClinicaPepito\bin\Debug\ClinicaPepito.pdb
