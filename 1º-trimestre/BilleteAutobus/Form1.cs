@@ -22,7 +22,8 @@ namespace BilleteAutobus
         private void altaUsuario_Click(object sender, EventArgs e)
         {
             nuevoCliente formularioNuevoCliente = new nuevoCliente();
-            formularioNuevoCliente.ShowDialog();
+            
+            Cliente c = formularioNuevoCliente.ShowDialog();
         }
 
         private void comprobarUsuarios_Click(object sender, EventArgs e)
