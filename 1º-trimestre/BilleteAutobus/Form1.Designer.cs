@@ -52,6 +52,7 @@
             this.comprarBillete.TabIndex = 1;
             this.comprarBillete.Text = "Comprar billete";
             this.comprarBillete.UseVisualStyleBackColor = true;
+            this.comprarBillete.Click += new System.EventHandler(this.comprarBillete_Click);
             // 
             // comprobarUsuarios
             // 
@@ -71,6 +72,7 @@
             this.cerrar.TabIndex = 3;
             this.cerrar.Text = "Cerrar";
             this.cerrar.UseVisualStyleBackColor = true;
+            this.cerrar.Click += new System.EventHandler(this.cerrar_Click);
             // 
             // Form1
             // 

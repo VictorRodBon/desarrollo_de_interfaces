@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\comprarbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:comprarbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\comprarbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:comprarbillete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|c:\\users\\victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\billeteautobus\\consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:consultarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D74C91EA-F022-4861-9B8B-72D25AC46D40}|BilleteAutobus.csproj|solutionrelative:nuevocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,32 +51,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T10:04:22.012Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "comprarBillete.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\comprarBillete.cs",
+              "RelativeDocumentMoniker": "comprarBillete.cs",
+              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\comprarBillete.cs",
+              "RelativeToolTip": "comprarBillete.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:20:08.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:14:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "consultarClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\consultarClientes.cs",
+              "RelativeDocumentMoniker": "consultarClientes.cs",
+              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\consultarClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "consultarClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T10:06:06.979Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nuevoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\nuevoCliente.cs",
+              "RelativeDocumentMoniker": "nuevoCliente.cs",
+              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\nuevoCliente.cs",
+              "RelativeToolTip": "nuevoCliente.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAtwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:41:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "consultarClientes.cs",
               "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\consultarClientes.cs",
               "RelativeDocumentMoniker": "consultarClientes.cs",
               "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\consultarClientes.cs",
               "RelativeToolTip": "consultarClientes.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T10:25:45.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T10:04:22.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "comprarBillete.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\comprarBillete.cs",
               "RelativeDocumentMoniker": "comprarBillete.cs",
@@ -72,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "nuevoCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\nuevoCliente.cs",
               "RelativeDocumentMoniker": "nuevoCliente.cs",
@@ -84,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Victor\\desarrollo_de_interfaces\\1\u00BA-trimestre\\BilleteAutobus\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

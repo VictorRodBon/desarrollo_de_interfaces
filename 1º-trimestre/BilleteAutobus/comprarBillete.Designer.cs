@@ -31,8 +31,8 @@
             this.labelDni = new System.Windows.Forms.Label();
             this.labelPlaza = new System.Windows.Forms.Label();
             this.textBoxDni = new System.Windows.Forms.TextBox();
-            this.textBoxPlaza = new System.Windows.Forms.TextBox();
             this.buttonAceptar = new System.Windows.Forms.Button();
+            this.comboBoxPlaza = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // labelDni
@@ -60,13 +60,6 @@
             this.textBoxDni.Size = new System.Drawing.Size(130, 20);
             this.textBoxDni.TabIndex = 2;
             // 
-            // textBoxPlaza
-            // 
-            this.textBoxPlaza.Location = new System.Drawing.Point(84, 36);
-            this.textBoxPlaza.Name = "textBoxPlaza";
-            this.textBoxPlaza.Size = new System.Drawing.Size(130, 20);
-            this.textBoxPlaza.TabIndex = 3;
-            // 
             // buttonAceptar
             // 
             this.buttonAceptar.Location = new System.Drawing.Point(84, 83);
@@ -75,14 +68,34 @@
             this.buttonAceptar.TabIndex = 4;
             this.buttonAceptar.Text = "Aceptar";
             this.buttonAceptar.UseVisualStyleBackColor = true;
+            this.buttonAceptar.Click += new System.EventHandler(this.btnComprar_Click);
+            // 
+            // comboBoxPlaza
+            // 
+            this.comboBoxPlaza.FormattingEnabled = true;
+            this.comboBoxPlaza.Items.AddRange(new object[] {
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"});
+            this.comboBoxPlaza.Location = new System.Drawing.Point(84, 37);
+            this.comboBoxPlaza.Name = "comboBoxPlaza";
+            this.comboBoxPlaza.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxPlaza.TabIndex = 5;
             // 
             // comprarBillete
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(241, 118);
+            this.Controls.Add(this.comboBoxPlaza);
             this.Controls.Add(this.buttonAceptar);
-            this.Controls.Add(this.textBoxPlaza);
             this.Controls.Add(this.textBoxDni);
             this.Controls.Add(this.labelPlaza);
             this.Controls.Add(this.labelDni);
@@ -98,7 +111,7 @@
         private System.Windows.Forms.Label labelDni;
         private System.Windows.Forms.Label labelPlaza;
         private System.Windows.Forms.TextBox textBoxDni;
-        private System.Windows.Forms.TextBox textBoxPlaza;
         private System.Windows.Forms.Button buttonAceptar;
+        private System.Windows.Forms.ComboBox comboBoxPlaza;
     }
 }

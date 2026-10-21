@@ -10,3 +10,4 @@ C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\BilleteAutobus\obj\Debug\
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\BilleteAutobus\obj\Debug\BilleteAutobus.csproj.CoreCompileInputs.cache
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\BilleteAutobus\obj\Debug\BilleteAutobus.exe
 C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\BilleteAutobus\obj\Debug\BilleteAutobus.pdb
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\BilleteAutobus\obj\Debug\BilleteAutobus.consultarClientes.resources

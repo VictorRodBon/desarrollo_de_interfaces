@@ -1,11 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace BilleteAutobus
@@ -23,12 +17,27 @@ namespace BilleteAutobus
         {
             nuevoCliente formularioNuevoCliente = new nuevoCliente();
             
-            Cliente c = formularioNuevoCliente.ShowDialog();
+            if(formularioNuevoCliente.ShowDialog() == DialogResult.OK)
+            {
+                listaClientes.Add(formularioNuevoCliente.cliente);
+            }
         }
 
         private void comprobarUsuarios_Click(object sender, EventArgs e)
         {
-            consultarClientes formularioConsultarClientes = new consultarClientes(list);
+            consultarClientes formularioConsultarClientes = new consultarClientes(listaClientes);
+            formularioConsultarClientes.Show();
+        }
+
+        private void comprarBillete_Click(object sender, EventArgs e)
+        {
+            comprarBillete formularioComprarBillete = new comprarBillete(listaClientes);
+            formularioComprarBillete.Show();
+        }
+
+        private void cerrar_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
