@@ -1,4 +1,6 @@
-﻿namespace BilleteAutobus
+﻿using System.Windows.Forms;
+
+namespace BilleteAutobus
 {
     partial class consultarClientes
     {
@@ -35,6 +37,8 @@
             // 
             this.flowLayoutPanel1.Location = new System.Drawing.Point(12, 12);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
+            this.flowLayoutPanel1.FlowDirection = FlowDirection.TopDown;
+            this.flowLayoutPanel1.WrapContents = false;
             this.flowLayoutPanel1.Size = new System.Drawing.Size(413, 301);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
