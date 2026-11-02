@@ -1,0 +1,12 @@
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\bin\Debug\GestionAlumnos.exe.config
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\bin\Debug\GestionAlumnos.exe
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\bin\Debug\GestionAlumnos.pdb
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.csproj.AssemblyReference.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.Form1.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.MatricularAlumno.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.Properties.Resources.resources
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.csproj.GenerateResource.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.exe
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.pdb
+C:\Users\Victor\DAM\desarrollo_de_interfaces\1º-trimestre\GestionAlumnos\obj\Debug\GestionAlumnos.ConsultarAlumnos.resources
