@@ -18,38 +18,38 @@ namespace GestionAlumnos
         public Form1()
         {
             InitializeComponent();
-            listaAlumnos.Add(new Alumno { Nombre = "Juan Pérez", Dni = "12345678A", Curso = "1", Grupo = "A" });
-            listaAlumnos.Add(new Alumno { Nombre = "asdfasdf", Dni = "12345678A", Curso = "2", Grupo = "b" });
+            listaAlumnos.Add(new Alumno { Nombre = "Luis Rodriguez", Dni = "12345678A", Curso = "1", Grupo = "A" });
+            listaAlumnos.Add(new Alumno { Nombre = "Juan Pérez", Dni = "45678912B", Curso = "2", Grupo = "A" });
+            listaAlumnos.Add(new Alumno { Nombre = "Adrian Lopez", Dni = "11111111A", Curso = "1", Grupo = "B" });
+            listaAlumnos.Add(new Alumno { Nombre = "Pepito Grillo", Dni = "12345678A", Curso = "2", Grupo = "B" });
         }
 
         private void matricularAlumnoButton_Click(object sender, EventArgs e)
         {
-            // 1. Instanciar el formulario secundario
-            using (MatricularAlumno formCreacion = new MatricularAlumno())
+            MatricularAlumno formCreacion = new MatricularAlumno();
+            DialogResult resultado = formCreacion.ShowDialog();
+
+            if (resultado == DialogResult.OK)
             {
-                // 2. Abrirlo como ventana modal (bloquea la principal hasta que se cierre)
-                DialogResult resultado = formCreacion.ShowDialog();
+                Alumno nuevoAlumno = formCreacion.alumnoNuevo;
 
-                // 3. Comprobar si el usuario guardó los datos (DialogResult.OK)
-                if (resultado == DialogResult.OK)
+                if (nuevoAlumno != null)
                 {
-                    // 4. Obtener el alumno desde la propiedad del formulario secundario
-                    Alumno nuevoAlumno = formCreacion.alumnoNuevo;
+                    listaAlumnos.Add(nuevoAlumno);
 
-                    if (nuevoAlumno != null)
-                    {
-                        // 5. Añadirlo a la lista que vive en el formulario principal
-                        listaAlumnos.Add(nuevoAlumno);
-
-                        MessageBox.Show("¡Alumno agregado a la lista principal con éxito!", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    }
+                    MessageBox.Show("¡Alumno agregado a la lista principal con éxito!", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
+            
         }
 
         private void salirButton_Click(object sender, EventArgs e)
         {
-            this.Close();
+            if (MessageBox.Show("¿Seguro que quiere cerrrar?", "Cerrar", MessageBoxButtons.YesNo, MessageBoxIcon.Question)==DialogResult.Yes
+                ) {
+                this.Close();
+
+            }
         }
 
         private void consultarAlumnosButton_Click(object sender, EventArgs e)
