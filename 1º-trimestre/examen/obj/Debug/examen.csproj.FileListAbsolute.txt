@@ -1,0 +1,12 @@
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\bin\Debug\examen.exe.config
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\bin\Debug\examen.exe
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\bin\Debug\examen.pdb
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.Acceso.resources
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.Properties.Resources.resources
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.csproj.GenerateResource.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.exe
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.pdb
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.Registro.resources
+C:\Users\Victor\desarrollo_de_interfaces\1º-trimestre\examen\obj\Debug\examen.DatosUsuario.resources
